@@ -6,5 +6,6 @@ a change while changes are staged.
 
 a third change!
 
+testing merge
 
 changing code in compare
