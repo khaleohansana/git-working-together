@@ -1,5 +1,4 @@
 # git-working-together
- changes
 
 This is the first line in my file.
 
@@ -9,5 +8,3 @@ a third change!
 
 
 changing code in compare
-
-updating my readme
